@@ -1,0 +1,16 @@
+{
+  "terms": [
+    {
+      "term": "HTML",
+      "definition": "Hypertext Markup Language is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript."
+    },
+    {
+      "term": "CSS",
+      "definition": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
+    },
+    {
+      "term": "JavaScript",
+      "definition": "JavaScript is a high-level, interpreted programming language that conforms to the ECMAScript specification. It is a language that is also characterized as dynamic, weakly typed, prototype-based, and multi-paradigm."
+    }
+  ]
+}
